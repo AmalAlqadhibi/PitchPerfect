@@ -61,11 +61,11 @@
 				D517563C223AF4B800C2A946 /* AppDelegate.swift */,
 				D517563E223AF4B800C2A946 /* RecordSoundsViewController.swift */,
 				D57725842240536C00CBFA32 /* playSoundsViewController.swift */,
+				D5233FA022414F19007C7419 /* PlaySoundsViewController+Audio.swift */,
 				D5175640223AF4B800C2A946 /* Main.storyboard */,
 				D5175643223AF4B900C2A946 /* Assets.xcassets */,
 				D5175645223AF4B900C2A946 /* LaunchScreen.storyboard */,
 				D5175648223AF4B900C2A946 /* Info.plist */,
-				D5233FA022414F19007C7419 /* PlaySoundsViewController+Audio.swift */,
 			);
 			path = PitchPerfect;
 			sourceTree = "<group>";
